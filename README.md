@@ -1,16 +1,21 @@
-## Hi there 👋
+# Amanda Ferreira
 
-<!--
-**Amandaferreiras/Amandaferreiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Estudante de Ciência da Computação  
+- Interesse em Gestão de Projetos  
+- Interesse em Banco de Dados  
+- Buscando aprender e aprimorar minhas habilidades constantemente
+
+---
+
+## Contato
+
+Você pode me encontrar por aqui:
+
+- [LinkedIn](https://www.linkedin.com/in/amanda-ferreira-b4b337298)  
+- [Email](mailto:amandaferreira122005@gmail.com)  
