@@ -7,9 +7,8 @@ Estudante de Ciência da Computação.
 ## Sobre mim
 
 - Estudante de Ciência da Computação  
-- Interesse em Gestão de Projetos  
-- Interesse em Banco de Dados  
-- Buscando aprender e aprimorar minhas habilidades constantemente
+- Interesse em áreas diversas da tecnologia, especialmente banco de dados :)  
+- Buscando aprender e aprimorar minhas habilidades constantemente!
 
 ---
 
